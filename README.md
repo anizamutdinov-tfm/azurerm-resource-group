@@ -2,7 +2,7 @@
 
 Author: Artur
 
-Required terraform version: 0.12.31
+Required terraform version: >=0.12.31
 
 #### Examples:
 
